@@ -81,7 +81,7 @@ dans package.json
 
 npm install --save @nestjs/typeorm typeorm pg
 
-npm i --save @nestjs/confi
+npm i --save @nestjs/config
 
 nest g resource
 
